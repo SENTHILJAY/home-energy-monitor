@@ -29,7 +29,7 @@ This project consists out of multiple components:
 | `src-aws`         | Serverless AWS backend + GraphQL API | ![AWS Build Status](https://github.com/Savjee/home-energy-monitor/workflows/aws/badge.svg) |
 | `src-esp32`       | Firmware for the ESP32 (measuring device) | ![Firmware Build Status](https://github.com/Savjee/home-energy-monitor/workflows/firmware/badge.svg) |
 
-(TODO: add instructions on how to deploy all of this. 😅)
+(TODO: add instructions on how deploy all of this. 😅)
 
 ## Video explanation
 
